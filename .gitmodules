@@ -1,0 +1,6 @@
+[submodule "ogg"]
+	path = ogg
+	url = ../ogg.git
+[submodule "opus"]
+	path = opus
+	url = ../opus.git
