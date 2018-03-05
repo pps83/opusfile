@@ -1,6 +1,8 @@
 [submodule "ogg"]
 	path = ogg
 	url = ../ogg.git
+	branch = master
 [submodule "opus"]
 	path = opus
 	url = ../opus.git
+	branch = master
